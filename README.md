@@ -10,7 +10,7 @@ Also the pictures have been modified with alt descriptions to describe what each
 
 Below is a screenshot of the Webiste:
 
-! [Website Screenshot] (/Develop/assets/images/README-SCREENSOT.png)
+! [Website Screenshot] (/assets/01-html-css-git-homework-demo.png)
 
 
 ## Link to Deployable URL
